@@ -1,6 +1,6 @@
 ## Animated Navigation
 
-Animated Navigatio using CSS and Javascript.
+Animated Navigation using CSS and Javascript.
 
 ## Live Preview
 
